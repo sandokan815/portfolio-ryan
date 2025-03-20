@@ -6,7 +6,7 @@ export const siteMetadata = {
   language: "en-us",
   theme: "light",
   siteName: "ryanwang.me",
-  siteUrl: "https://ryanwang.vercel.app",
+  siteUrl: "https://portfolio-ryan-lemon.vercel.app",
   siteRepo: "https://github.com/sandokan815/portfolio-ryanwang",
   siteLogo: "/favicon.ico",
   image: "/static/homepage.png",
