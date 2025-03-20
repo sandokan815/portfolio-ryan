@@ -2,57 +2,57 @@ import { type ExperienceShowcaseListItemProps } from "@/components/experience/ex
 
 export const EXPERIENCE: ExperienceShowcaseListItemProps[] = [
   {
-    title: "Senior Full Stack Web Developer",
+    title: "Full-Stack Web Developer",
     organisation: {
-      name: "Experian",
-      href: "https://experian.com",
+      name: "Musiqmesh",
+      href: "https://www.musiqmesh.com",
     },
-    date: "Dec 2021 - Feb 2025",
-    location: "Dublin, Ireland - Remote",
+    date: "Jul 2022 - Dec 2024",
+    location: "London, United Kingdom",
     description:
-      "I contributed to developing and maintaining cutting-edge web applications that supported the company’s data-driven solutions across industries such as financial services, healthcare, and eCommerce. My role involved designing and implementing scalable, secure, and user-friendly solutions, leveraging technologies like Next.js, Node.js, Python, AWS",
+      "Built collaborate platform designed for musicans, songwriters, and audio creators to connect and collaborate on music projects (Next.js, MaterialUI, AWS Lambda)",
   },
   {
-    title: "Full Stack Web Developer",
+    title: "Lead Developer",
     organisation: {
-      name: "BAC Credomatic",
-      href: "https://www.baccredomatic.com",
+      name: "Wutzu Technology",
+      href: "https://www.metrospeedy.com/",
     },
-    date: "Jan 2019 - Dec 2021",
-    location: "San José, Costa Rica - Onsite",
+    date: "Jul 2020 - June 2022",
+    location: "London, United Kingdom",
     description:
-      "My work focused on building secure and efficient solutions for credit card issuing, acquiring, and financial operations, utilizing modern technologies like Svelte, Python, AWS",
+      "Developed delivery service platform that typically targets urban areas where consumers are looking for quick and easy ways to get their necessities without leaving home (Next.js, Node.js, Firebase, Python)",
   },
   {
-    title: "Backend Developer | Data Analyst",
+    title: "Full Stack Developer",
     organisation: {
-      name: "Interfaz Software",
-      href: "http://interfazsoftware.net/",
+      name: "CollinsHarper",
+      href: "https://collinsharper.com",
     },
-    date: "Nov 2017 - Dec 2018",
-    location: "Alajuela, Costa Rica - Remote",
-    description:
-      "Built several outsourcing projects using different stacks mostly using backend stacks such as Node.js, NestJS, Django, Flask, FastAPI, Swagger, Postman",
+    date: "Sep 2018 - Jul 2020",
+    location: "Otawa, Canada",
+    description: `Built the several eCommerce websites and outsourcing projects.
+      (Magento2, wordpress, React, Apollo-GraphQL, Node, Python, MongoDB, MySQL`,
   },
   {
-    title: "Frontend Developer",
+    title: "Senior Software Engineer",
     organisation: {
-      name: "EL Lab Web - Design - Develop",
-      href: "",
+      name: "ravExchange",
+      href: "https://ravExchange.com",
     },
-    date: "Nov 2016 - Oct 2017",
-    location: "Vancouver, Canada - Remote",
+    date: "Oct 2014 - Sep 2018",
+    location: "San Francisco Bay Area, United States",
     description:
-      "Built the several custom websites using Magento2 and different types of projects using React, Apollo-GraphQL, Node, Python, MongoDB, MySQL",
+      "Built company internal dashboard that analysis tracking information. (Angular, Node, MySQL)",
   },
   {
-    title: "Web Developer",
+    title: "Frontend Web Developer",
     organisation: {
-      name: "ADT",
-      href: "https://www.adt.com/",
+      name: "Freehunter",
+      href: "https://freehunter.com",
     },
-    date: "Nov 2012 - Nov 2016",
-    location: "Georgia, United States - Remote",
+    date: "Apr 2012 - Oct 2014",
+    location: "Hong Kong",
     description:
       "Worked with different kinds of web technologies in the various kinds of web, mobile, eCommerce, chrome extension, HTML5 Game projects for global clients",
   },

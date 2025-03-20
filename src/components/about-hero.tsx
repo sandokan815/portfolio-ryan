@@ -30,7 +30,7 @@ export default function AboutHero() {
         <AnimatePresence>
           <FadeUp key="title-greeting" duration={0.6}>
             <h1 className="text-5xl font-bold text-accent sm:text-6xl md:text-5xl lg:text-4xl xl:text-6xl">
-              Hi, I&apos;m Anthony Rodríguez Cuesta
+              Hi, I&apos;m Ryan Wang
             </h1>
           </FadeUp>
           <FadeUp key="description-1" duration={0.6} delay={0.2}>
@@ -91,13 +91,13 @@ export default function AboutHero() {
               <Image
                 className="-z-10 h-full w-full bg-cover bg-no-repeat"
                 alt="Costa Rica flag"
-                src="https://flagcdn.com/cr.svg"
+                src="https://flagcdn.com/hk.svg"
                 width={15}
                 height={15}
               />
             </div>
             <span className="text-lg font-medium text-foreground">
-              Alajuela, Costa Rica
+              Lung Ha Wan Road, Clearwater Bay, Hong Kong
             </span>
           </FadeRight>
         </AnimatePresence>

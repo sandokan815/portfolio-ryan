@@ -15,18 +15,18 @@ export default function Home() {
     <>
       <CursorTrailCanvas className="pointer-events-none fixed inset-0 -z-10 h-full w-full" />
       <NextSeo
-        title="Anthony Rodríguez | Senior Software Engineer"
-        description="Explore the professional portfolio of Anthony Rodríguez, a skilled Senior Software Engineer with 2 years of hands-on experience. Discover innovative projects, expertise in modern web technologies, and a passion for creating seamless user experiences."
+        title="Ryan Wang | Senior Software Engineer"
+        description="Explore the professional portfolio of Ryan Wang, a skilled Senior Software Engineer with 2 years of hands-on experience. Discover innovative projects, expertise in modern web technologies, and a passion for creating seamless user experiences."
         canonical={siteMetadata.siteUrl}
         openGraph={{
           url: siteMetadata.siteUrl,
-          title: "Anthony Rodríguez - Senior Software Engineer Portfolio",
+          title: "Ryan Wang - Senior Software Engineer Portfolio",
           description:
-            "Dive into the world of web development with Anthony Rodríguez. Discover a Senior Software Engineer with 2 years of expertise, showcasing cutting-edge projects and a commitment to crafting exceptional user interfaces.",
+            "Dive into the world of web development with Ryan Wang. Discover a Senior Software Engineer with 2 years of expertise, showcasing cutting-edge projects and a commitment to crafting exceptional user interfaces.",
           images: [
             {
               url: `${siteMetadata.siteUrl}${siteMetadata.twitterImage}`,
-              alt: "Anthony Rodríguez - Portfolio Image",
+              alt: "Ryan Wang - Portfolio Image",
             },
           ],
           siteName: siteMetadata.siteName,
